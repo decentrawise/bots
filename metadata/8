@@ -1,31 +1,31 @@
 {
-    "name": "DecentraWise Troll",
+    "name": "DecentraWise Wizard",
     "description": "Brilliant spell-slinger and magical with cryptography. Often uses Jewles in her h-index potions. ",
-    "image": "https://robohash.org/decentrawise-troll.png",
+    "image": "ipfs://QmW1QmUqfjJ6ZhegKStHga5bSmekPFEByetzM7tjYp6DQj/8.png",
     "attributes": [
         {
             "trait_type": "Strength",
-            "value": 90
+            "value": 52
         },
         {
             "trait_type": "Dexterity",
-            "value": 74
+            "value": 11
         },
         {
             "trait_type": "Constitution",
-            "value": 96
+            "value": 17
         },
         {
             "trait_type": "Intelligence",
-            "value": 90
+            "value": 85
         },
         {
             "trait_type": "Wisdom",
-            "value": 2
+            "value": 24
         },
         {
             "trait_type": "Charisma",
-            "value": 96
+            "value": 54
         },
         {
             "trait_type": "Experience",

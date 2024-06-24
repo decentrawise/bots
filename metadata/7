@@ -1,31 +1,31 @@
 {
-    "name": "DecentraWise Knight",
+    "name": "DecentraWise Unicorn",
     "description": "Defender against Flash Loan attacks, protector of #Defi protocols. Helping keep the smart contract kingdom secure, reliable, and safe. ",
-    "image": "https://robohash.org/decentrawise-knight.png",
+    "image": "ipfs://QmW1QmUqfjJ6ZhegKStHga5bSmekPFEByetzM7tjYp6DQj/7.png",
     "attributes": [
         {
             "trait_type": "Strength",
-            "value": 52
+            "value": 53
         },
         {
             "trait_type": "Dexterity",
-            "value": 55
+            "value": 54
         },
         {
             "trait_type": "Constitution",
-            "value": 18
+            "value": 2
         },
         {
             "trait_type": "Intelligence",
-            "value": 95
+            "value": 96
         },
         {
             "trait_type": "Wisdom",
-            "value": 81
+            "value": 94
         },
         {
             "trait_type": "Charisma",
-            "value": 93
+            "value": 99
         },
         {
             "trait_type": "Experience",
